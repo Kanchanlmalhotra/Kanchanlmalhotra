@@ -3,6 +3,8 @@ I am an IT professional helping diverse businesses transform their complex needs
 
 <a href="https://www.linkedin.com/in/kanchanmalhotra/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://public.tableau.com/profile/kanchan.malhotra#!/" target="_blank"><img alt="Tableau" src="https://img.shields.io/badge/tableau-%230077B5.svg?&style=for-the-badge&logo=tableau&logoColor=white&color=2FBEBE" /></a>  <a href="mailto:kanchanlmalhotra@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?&style=for-the-badge&logo=Gmail&logoColor=white" /></a> 
 
+![Github stats](https://github-readme-stats.vercel.app/api?username=Kanchanlmalhotra)
+
 <!--
 **Kanchanlmalhotra/Kanchanlmalhotra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
